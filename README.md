@@ -19,7 +19,7 @@ El juego cumple con todos los requisitos de jugabilidad y validación.
 Algunos de los resultados visuales se presentan a continuación:
 
 #### Menú principal y Autenticación de usuario  
-<img src="results/menu.png" width="250"> <img src="results/usuario.png" width="250">  
+<img src="results/menu.png" width="250">     <img src="results/usuario.png" width="250">  
 
 #### Autenticación de usuario  
 
