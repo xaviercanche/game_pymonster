@@ -22,10 +22,10 @@ Algunos de los resultados visuales se presentan a continuación:
 <img src="results/menu.png" width="250">     <img src="results/usuario.png" width="250">  
 
 #### Registro de nuevo usuario y modalidad de juego  
-<img src="results/registro.png" width="250">     <img src="results/modo.png" width="250">  
+<img src="results/registro.png" width="220">     <img src="results/modo.png" width="250">  
 
 #### Selección de personajes y detalles de cada uno de ellos  
-<img src="results/seleccion.png" width="250">     <img src="results/detalles.png" width="250">  
+<img src="results/seleccion.png" width="240">     <img src="results/detalles.png" width="250">  
 
 #### Ventana de combate y sistema de guardado de nivel  
 <img src="results/combate.png" width="250">     <img src="results/continuar.png" width="250">  
