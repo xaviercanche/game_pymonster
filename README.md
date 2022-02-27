@@ -18,5 +18,8 @@ python main.py
 El juego cumple con todos los requisitos de jugabilidad y validación.  
 Algunos de los resultados visuales se presentan a continuación:
 
-### Menú principal  
-<img src="results/menu.png" width="250">
+#### Menú principal  
+<img src="results/menu.png" width="250">  
+
+#### Autenticación de usuario  
+<img src="results/usuario.png" width="250">  
