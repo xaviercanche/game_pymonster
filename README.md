@@ -30,3 +30,4 @@ Algunos de los resultados visuales se presentan a continuación:
 #### Ventana de combate y sistema de guardado de nivel  
 <img src="results/combate.png" width="280">     <img src="results/continuar.png" width="250">  
 
+Y por último una ventana sorpresa para el que logre completar el videojuego.
